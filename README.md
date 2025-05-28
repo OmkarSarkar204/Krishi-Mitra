@@ -49,7 +49,7 @@ cd krishi-mitra
 (Keep all the files in the same folder)
 
 2.Open in browser
-- Simply open front.html in any modern browser
+- Simply open Krishi-Mitra-index.html in any modern browser
 
 
 
