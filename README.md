@@ -1,6 +1,6 @@
 # _Krishi-Mitra - Crop Disease Detection & Seed Recommendation System_
 
-Krishi Mitra is an AI-powered agricultural assistant that helps farmers identify crop diseases and find the best seeds for their specific farming conditions. 
+Krishi Mitra is an AI-powered agricultural assistant that helps farmers identify plant diseases and find the best seeds for their specific farming conditions. 
 
 _**Features**_ 
 
