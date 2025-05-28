@@ -52,3 +52,16 @@ cd krishi-mitra
 
 
 
+**_API Key Setup_** 
+To run this project, you'll need to add your own Groq API key:
+Get a free API key from Groq Cloud(https://console.groq.com/keys)
+Replace the placeholder in both script.js and script1.js:
+
+```
+const API_KEY = 'your-api-key-here';
+```
+
+
+
+
+
