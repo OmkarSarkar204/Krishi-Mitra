@@ -35,3 +35,19 @@ _**Technologies Used**_
 - Groq API (using Llama 3 model)
 - Natural language processing for disease analysis
 - Context-aware seed recommendations
+
+
+
+_**Getting Started**_
+
+1.Clone the repository
+```
+git clone https://github.com/your-username/krishi-mitra.git
+cd krishi-mitra
+```
+
+2.Open in browser
+- Simply open front.html in any modern browser
+
+
+
