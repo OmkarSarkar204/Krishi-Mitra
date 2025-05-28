@@ -64,9 +64,6 @@ const API_KEY = 'your-api-key-here';
 
 
 
-![Alt text](https://github.com/user-attachments/assets/b2c4b9d5-e626-4609-993c-af7a31ba579c)
-
-
 ![Alt text](https://github.com/user-attachments/assets/558fd63f-8d70-4131-ae24-1330cef58bac)
 
 
