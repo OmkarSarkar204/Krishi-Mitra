@@ -45,6 +45,7 @@ _**Getting Started**_
 git clone https://github.com/your-username/krishi-mitra.git
 cd krishi-mitra
 ```
+(Keep all the files in the same folder)
 
 2.Open in browser
 - Simply open front.html in any modern browser
