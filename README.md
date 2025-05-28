@@ -4,7 +4,7 @@ Krishi Mitra is an AI-powered agricultural assistant that helps farmers identify
 
 _**Features**_ 
 
-** Crop Disease Identification**
+**Crop Disease Identification**
 - Analyze symptoms and environmental factors
 - Get AI-powered disease diagnosis
 - Receive management and prevention recommendations
