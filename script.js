@@ -1,5 +1,5 @@
 //  Groq API Key
-const API_KEY = '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';
+const API_KEY = 'YOUR_API_KEY_HERE';
 const API_URL = 'https://api.groq.com/openai/v1/chat/completions';
 
 const form = document.getElementById('diseaseForm');
