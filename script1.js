@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const languageSelector = document.getElementById('language');
 
     const GROQ_API_URL = 'https://api.groq.com/openai/v1/chat/completions';
-    const GROQ_API_KEY = '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';
+    const GROQ_API_KEY = 'YOUR_API_KEY';
 
     const translations = {
         en: {
